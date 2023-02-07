@@ -7,7 +7,7 @@ const phones = [
     { name: 'Xaomi', camera: 17, storage: '32gb', price: 52000, color: 'silver' },
     { name: 'Oppo', camera: 25, storage: '32gb', price: 20000, color: 'black' },
     { name: 'Nokia', camera: 6, storage: '32gb', price: 44000, color: 'golden' },
-    { name: 'HTC', camera: 10, storage: '32gb', price: 62000, color: 'silver' },
+    { name: 'HTC', camera: 10, storage: '32gb', price: 62000, color: 'silver' },;]
 ];
 
 function cheapestPhone(phones){
